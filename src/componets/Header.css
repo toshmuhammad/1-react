@@ -124,3 +124,300 @@ body {
     margin-left: 120px;
     margin-top: -110px;
 }
+
+.skills {
+    margin-top: 100px;
+    margin-left: 550px;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.uzb {
+    display: flex;
+    gap: 18px;
+    margin-top: 96px;
+}
+
+.card1 {
+    background-color: #F5F5F5;
+    padding: 35px 22px 92px 23px;
+    border-radius: 10px;
+}
+
+.fale {
+    margin-left: 20px;
+}
+
+.spek {
+    font-size: 30px;
+    color: #263238;
+}
+
+.pr {
+    font-size: 16px;
+    color: #8F95A5;
+    margin-top: 30px;
+}
+
+.pp {
+    font-size: 16px;
+    color: #8F95A5;
+    margin-top: 30px;
+}
+
+.btm {
+    padding: 16.5px 63.5px;
+    border-radius: 5px;
+    background-color: #263238;
+    color: #FFFFFF;
+    margin-top: 36px;
+}
+
+.card2 {
+    background-color: #F5F5F5;
+    padding: 35px 77px 44px 40px;
+    border-radius: 10px;
+
+}
+
+.writing {
+    margin-top: 30px;
+    font-size: 30px;
+    color: #263238;
+    margin-bottom: 15px;
+}
+
+.bti {
+    padding: 16.5px 63.5px;
+    border-radius: 5px;
+    background-color: #263238;
+    color: #FFFFFF;
+    margin-top: 30px;
+}
+
+.card3 {
+    background-color: #F5F5F5;
+    padding: 34px 48px 44px 40px;
+    border-radius: 10px;
+}
+
+.reading {
+    font-size: 30px;
+    color: #263238;
+
+}
+
+.pl {
+    font-size: 16px;
+    color: #8F95A5;
+    margin-top: 15px;
+}
+
+.btl {
+    padding: 16.5px 63.5px;
+    border-radius: 5px;
+    background-color: #263238;
+    color: #FFFFFF;
+    margin-top: 25px;
+}
+
+.doler {
+    display: flex;
+    margin-top: 260px;
+}
+
+.xat {}
+
+.about {
+    font-size: 48px;
+    color: #000000;
+}
+
+.the {
+    color: #8F95A5;
+    font-size: 20px;
+    margin-top: 23px;
+}
+
+.narx {
+    display: flex;
+    margin-top: 38px;
+    gap: 170px;
+}
+
+.cum {
+    font-size: 48px;
+    color: #2A3246;
+}
+
+.suma {
+    font-size: 20px;
+    color: #8F95A5;
+    padding-top: 20px;
+}
+
+.aboutus {
+    margin-left: 150px;
+    margin-top: -100px;
+}
+
+.pricing {
+    margin-top: 150px;
+    margin-left: 550px;
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.kasb {
+    display: flex;
+    gap: 100px;
+    margin-top: 80px;
+}
+
+.self {
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.start {
+    margin-top: 20px;
+    color: #8F95A5;
+}
+
+.per {
+    padding: 0px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    display: flex;
+}
+
+.per h3 {
+    font-size: 30px;
+    color: #263238;
+}
+
+.per p {
+    font-size: 18px;
+    color: #546269;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+
+.live {
+    font-size: 30px;
+    margin-top: 70px;
+}
+
+.group {
+    margin-top: 20px;
+    color: #8F95A5;
+}
+
+.pe {
+    padding: 0px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 50px;
+    display: flex;
+}
+
+.pe h3 {
+    font-size: 30px;
+    color: #263238;
+}
+
+.pe p {
+    font-size: 18px;
+    color: #546269;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+
+.personal {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.online {
+    margin-top: 20px;
+    color: #8F95A5;
+}
+
+.month {
+    padding: 0px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.month h3 {
+    font-size: 30px;
+    color: #263238;
+}
+
+.month p {
+    font-size: 18px;
+    color: #546269;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+
+
+.contact {
+    display: flex;
+    margin-top: 270px;
+}
+
+.image {
+    
+}
+
+.login {
+    margin-top: 80px;
+    margin-left: 111px;
+}
+
+.us {
+    font-size: 48px;
+}
+
+.paragrph {
+    font-size: 20px;
+    margin-top: 37px;
+    color: #8F95A5;
+}
+
+.input {
+    padding: 25px 81.5px;
+    border-radius: 10px;
+    border: 1px solid #8F95A5;
+    font-size: 16px;
+}
+
+.button {
+    padding: 25px 81.5px;
+    border-radius: 10px;
+    background-color: #263238;
+    color: #FFFFFF;
+    margin-left: 12px;
+    margin-top: 50px;
+}
+
+.chizq {
+    margin-right: 100px;
+    border: 1px solid #C4C4C4;
+}
+
+.footer {
+    display: flex;
+    margin-top: 31px;
+    margin-bottom: 60px;
+}
+
+.nik {
+    margin-top: 10px;
+    margin-left: 550px;
+    color: #8F95A5;
+}
